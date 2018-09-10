@@ -1,12 +1,12 @@
 [Desktop Entry]
-Name=Devploit
-Comment=Devploit 🕵️ Information Gathering Tool 🕵️
+Name=dwtinfo
+Comment=🕵️ Information Gathering Tool 🕵️
 Encoding=UTF-8
-Exec=sh -c "Devploit;${SHELL:-bash}"
+Exec=sh -c "dwtinfo;${SHELL:-bash}"
 Icon=Devploit.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-info-gathering;01-04-network-scanners;02-vulnerability-analysis;
-X-Kali-Package=Devploit
-Name[C]=Devploit
+X-Kali-Package=dwtinfo
+Name[C]=dwtinfo
