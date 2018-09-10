@@ -1,32 +1,27 @@
-[![Version](https://img.shields.io/badge/Devploit-v2.3-brightgreen.svg?maxAge=259200)]()
 [![Python 2.x](https://img.shields.io/badge/python-2.x-blue.svg)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue,Windows,Android.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
-## ★ Devploit . version 3.6 | <img src="https://img.shields.io/badge/i-Devploit-red.svg">
+## ★ Devploit . version 1.1 | <img src="https://img.shields.io/badge/i-Devploit-red.svg">
 
-   Author: Joker-Security [ dev-labs ]
+   Author: fouad ghaoui dark wolfs team
 ## ★ Description:
 
 Devploit is a simple python script to Information Gathering 
 
 ## ★ Download:
 
-● git clone https://github.com/joker25000/Devploit
+● git clone https://github.com/dz0ne
 
 ## ★ How to use:
 
-cd Devploit
+cd DWT_INFO
 
-chmod +x install
+and run the script
 
-./install
 
-Run in Terminal 
 
-Devploit
-
-(To run in Android you do not install file Run direct python2 Devploit)
+(To run in Android you do not install file Run direct python2 dwt_info)
 ## ★ Properties :
 
 ● DNS Lookup 
@@ -49,20 +44,4 @@ Devploit
 ● About Me 
 ● Exit
 
-## ★ Screenshot:
-
-<img src="https://i.imgur.com/k0XG34B.png" width="23%"></img> <img src="https://i.imgur.com/ha7mhPV.png" width="23%"></img> <img src="https://i.imgur.com/n85V8qw.png" width="23%"></img> 
-
-## ★ Video tutorial:
-
-[![ Devploit - Information Gathering Tool (Version 2.3) ](https://i.ytimg.com/vi/jJ9cZ-IcLg4/hqdefault.jpg)](https://www.youtube.com/watch?v=jJ9cZ-IcLg4)
-
-## ★ About:
-● Twitter : https://twitter.com/SecurityJoker
-
-● YOUTUBE : https://www.youtube.com/c/Professionalhacker25
-
-● FACE Pg : https://facebook.com/kali.linux.pentesting.tutorials
-
-● Tested On : Windows / Linux / Android Phone (Termux No root)
-
+## ★ 
