@@ -11,13 +11,14 @@ Devploit is a simple python script to Information Gathering
 
 ## ★ Download:
 
-● git clone https://github.com/dz0ne
-
+● git clone
+https://github.com/dz0ne/DWT_INFO/
 ## ★ How to use:
 
 cd DWT_INFO
-
-and run the script
+chmod +x install
+./install
+or run the script directement
 
 
 
